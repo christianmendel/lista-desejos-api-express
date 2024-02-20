@@ -1,0 +1,99 @@
+{
+  level: 'error',
+  message: "Cannot read properties of null (reading '_id')",
+  stack: "TypeError: Cannot read properties of null (reading '_id')\n" +
+    '    at editarStatusCompradoDesejoController (C:\\Users\\Mendel\\Documents\\Projects\\test\\src\\controllers\\Desejo\\DesejoController.ts:142:17)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  timestamp: '2024-01-04T20:44:07.054Z'
+}
+{
+  level: 'error',
+  message: 'Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer',
+  stack: 'BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer\n' +
+    '    at new BSONTypeError (C:\\Users\\Mendel\\Documents\\Projects\\test\\node_modules\\bson\\lib\\error.js:41:28)\n' +
+    '    at new ObjectId (C:\\Users\\Mendel\\Documents\\Projects\\test\\node_modules\\bson\\lib\\objectid.js:67:23)\n' +
+    '    at obterDesejoController (C:\\Users\\Mendel\\Documents\\Projects\\test\\src\\controllers\\Desejo\\DesejoController.ts:77:7)\n' +
+    '    at Layer.handle [as handle_request] (C:\\Users\\Mendel\\Documents\\Projects\\test\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at next (C:\\Users\\Mendel\\Documents\\Projects\\test\\node_modules\\express\\lib\\router\\route.js:144:13)\n' +
+    '    at exports.default (C:\\Users\\Mendel\\Documents\\Projects\\test\\src\\middlewares\\auth.ts:27:16)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  timestamp: '2024-01-04T20:55:07.270Z'
+}
+{
+  level: 'error',
+  message: 'Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer',
+  stack: 'BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer\n' +
+    '    at new BSONTypeError (C:\\Users\\Mendel\\Documents\\Projects\\test\\node_modules\\bson\\lib\\error.js:41:28)\n' +
+    '    at new ObjectId (C:\\Users\\Mendel\\Documents\\Projects\\test\\node_modules\\bson\\lib\\objectid.js:67:23)\n' +
+    '    at obterDesejoController (C:\\Users\\Mendel\\Documents\\Projects\\test\\src\\controllers\\Desejo\\DesejoController.ts:89:7)\n' +
+    '    at Layer.handle [as handle_request] (C:\\Users\\Mendel\\Documents\\Projects\\test\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at next (C:\\Users\\Mendel\\Documents\\Projects\\test\\node_modules\\express\\lib\\router\\route.js:144:13)\n' +
+    '    at exports.default (C:\\Users\\Mendel\\Documents\\Projects\\test\\src\\middlewares\\auth.ts:27:16)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  timestamp: '2024-01-04T20:55:54.707Z'
+}
+{
+  level: 'error',
+  message: 'Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer',
+  stack: 'BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer\n' +
+    '    at new BSONTypeError (C:\\Users\\Mendel\\Documents\\Projects\\test\\node_modules\\bson\\lib\\error.js:41:28)\n' +
+    '    at new ObjectId (C:\\Users\\Mendel\\Documents\\Projects\\test\\node_modules\\bson\\lib\\objectid.js:67:23)\n' +
+    '    at obterDesejoController (C:\\Users\\Mendel\\Documents\\Projects\\test\\src\\controllers\\Desejo\\DesejoController.ts:89:7)\n' +
+    '    at Layer.handle [as handle_request] (C:\\Users\\Mendel\\Documents\\Projects\\test\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at next (C:\\Users\\Mendel\\Documents\\Projects\\test\\node_modules\\express\\lib\\router\\route.js:144:13)\n' +
+    '    at exports.default (C:\\Users\\Mendel\\Documents\\Projects\\test\\src\\middlewares\\auth.ts:27:16)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  timestamp: '2024-01-04T20:58:12.114Z'
+}
+{
+  level: 'error',
+  message: 'Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer',
+  stack: 'BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer\n' +
+    '    at new BSONTypeError (C:\\Users\\Mendel\\Documents\\Projects\\test\\node_modules\\bson\\lib\\error.js:41:28)\n' +
+    '    at new ObjectId (C:\\Users\\Mendel\\Documents\\Projects\\test\\node_modules\\bson\\lib\\objectid.js:67:23)\n' +
+    '    at obterDesejoController (C:\\Users\\Mendel\\Documents\\Projects\\test\\src\\controllers\\Desejo\\DesejoController.ts:89:7)\n' +
+    '    at Layer.handle [as handle_request] (C:\\Users\\Mendel\\Documents\\Projects\\test\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at next (C:\\Users\\Mendel\\Documents\\Projects\\test\\node_modules\\express\\lib\\router\\route.js:144:13)\n' +
+    '    at exports.default (C:\\Users\\Mendel\\Documents\\Projects\\test\\src\\middlewares\\auth.ts:27:16)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  timestamp: '2024-01-04T20:58:50.419Z'
+}
+{
+  level: 'error',
+  message: 'Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer',
+  stack: 'BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer\n' +
+    '    at new BSONTypeError (C:\\Users\\Mendel\\Documents\\Projects\\test\\node_modules\\bson\\lib\\error.js:41:28)\n' +
+    '    at new ObjectId (C:\\Users\\Mendel\\Documents\\Projects\\test\\node_modules\\bson\\lib\\objectid.js:67:23)\n' +
+    '    at obterDesejoController (C:\\Users\\Mendel\\Documents\\Projects\\test\\src\\controllers\\Desejo\\DesejoController.ts:89:7)\n' +
+    '    at Layer.handle [as handle_request] (C:\\Users\\Mendel\\Documents\\Projects\\test\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at next (C:\\Users\\Mendel\\Documents\\Projects\\test\\node_modules\\express\\lib\\router\\route.js:144:13)\n' +
+    '    at exports.default (C:\\Users\\Mendel\\Documents\\Projects\\test\\src\\middlewares\\auth.ts:27:16)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  timestamp: '2024-01-04T21:00:03.084Z'
+}
+{
+  level: 'error',
+  message: 'Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer',
+  stack: 'BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer\n' +
+    '    at new BSONTypeError (C:\\Users\\Mendel\\Documents\\Projects\\test\\node_modules\\bson\\lib\\error.js:41:28)\n' +
+    '    at new ObjectId (C:\\Users\\Mendel\\Documents\\Projects\\test\\node_modules\\bson\\lib\\objectid.js:67:23)\n' +
+    '    at obterDesejoController (C:\\Users\\Mendel\\Documents\\Projects\\test\\src\\controllers\\Desejo\\DesejoController.ts:89:7)\n' +
+    '    at Layer.handle [as handle_request] (C:\\Users\\Mendel\\Documents\\Projects\\test\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at next (C:\\Users\\Mendel\\Documents\\Projects\\test\\node_modules\\express\\lib\\router\\route.js:144:13)\n' +
+    '    at exports.default (C:\\Users\\Mendel\\Documents\\Projects\\test\\src\\middlewares\\auth.ts:27:16)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  timestamp: '2024-01-04T21:01:55.377Z'
+}
+{
+  level: 'error',
+  message: 'Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer',
+  stack: 'BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer\n' +
+    '    at new BSONTypeError (C:\\Users\\Mendel\\Documents\\Projects\\test\\node_modules\\bson\\lib\\error.js:41:28)\n' +
+    '    at new ObjectId (C:\\Users\\Mendel\\Documents\\Projects\\test\\node_modules\\bson\\lib\\objectid.js:67:23)\n' +
+    '    at obterDesejoController (C:\\Users\\Mendel\\Documents\\Projects\\test\\src\\controllers\\Desejo\\DesejoController.ts:89:7)\n' +
+    '    at Layer.handle [as handle_request] (C:\\Users\\Mendel\\Documents\\Projects\\test\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at next (C:\\Users\\Mendel\\Documents\\Projects\\test\\node_modules\\express\\lib\\router\\route.js:144:13)\n' +
+    '    at exports.default (C:\\Users\\Mendel\\Documents\\Projects\\test\\src\\middlewares\\auth.ts:27:16)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  timestamp: '2024-01-04T21:02:31.440Z'
+}
